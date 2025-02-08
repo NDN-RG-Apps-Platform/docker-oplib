@@ -40,6 +40,6 @@ Sebelum memulai, pastikan kamu telah menginstal:
    ```
 
 ## Notes
-- Akses pgAdmin: `http://localhost:5050`
-- PostgreSQL berjalan di port `5433`
+- Akses pgAdmin: `http://localhost:5051`
+- PostgreSQL berjalan di port `5432`
 - Pastikan konfigurasi database di `config.json` sesuai dengan yang ada di `docker-compose.yml`
